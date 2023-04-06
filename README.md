@@ -10,6 +10,4 @@
 - [Dark mode screenshot](https://drive.google.com/file/d/1ArFVGBFCLfvYHGEUyQGsCt5lClh62tbK/view)
 - [light mode screenshot](https://drive.google.com/file/d/1vAeT2dcwjJ5BA362AHa2OOOv4AX76yw_/view)
 
-### Author
-- [Linkedin](https://www.linkedin.com/in/hatem-bassem/)
-- [Live Site](https://landing-page1-i8d50r752-elsaadany427.vercel.app/)
+- [Live Site](https://fa-noon.github.io/Fanoon/)
